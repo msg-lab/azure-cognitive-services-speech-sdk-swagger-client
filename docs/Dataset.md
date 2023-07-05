@@ -3,7 +3,7 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**links** | [**Links**](Links.md) |  | [optional] 
+**links** | [**DatasetLinks**](DatasetLinks.md) |  | [optional] 
 **properties** | [**DatasetProperties**](DatasetProperties.md) |  | [optional] 
 **kind** | [**DatasetKind**](DatasetKind.md) |  | 
 **_self** | **str** | The location of this entity. | [optional] 

@@ -8,7 +8,7 @@ Name | Type | Description | Notes
 **transcription1** | [**EntityReference**](EntityReference.md) |  | [optional] 
 **transcription2** | [**EntityReference**](EntityReference.md) |  | [optional] 
 **dataset** | [**EntityReference**](EntityReference.md) |  | 
-**links** | [**Links**](Links.md) |  | [optional] 
+**links** | [**EvaluationLinks**](EvaluationLinks.md) |  | [optional] 
 **properties** | [**EvaluationProperties**](EvaluationProperties.md) |  | [optional] 
 **project** | [**EntityReference**](EntityReference.md) |  | [optional] 
 **_self** | **str** | The location of this entity. | [optional] 
